@@ -1,0 +1,2 @@
+ServerPort: ":8080"
+DBConnectionString: "user=postgres password=postgres dbname=RentalAgency sslmode=disable port=5433"
